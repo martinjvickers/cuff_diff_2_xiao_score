@@ -12,3 +12,7 @@ For more information about the Xiao score;
 
 [Xiao., Y. 2014. A novel significance score for gene selection and ranking.](
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3957066/)
+
+##Author
+
+Originally written by Martin Swain. Aberystwyth University.
